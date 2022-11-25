@@ -1,0 +1,22 @@
+{
+    "title": "Programma CV datu glabāšanai",
+    "cv": {
+        "name": "Vārds",
+        "surname": "Uzvārds",
+        "phone": "Tālrunis",
+        "email": "E-pasts"
+    },
+    "list": {
+        "actions": "Darbības",
+        "resultless": "Nav rezultātu",
+        "workplacesAmount": "Darba vietu skaits"
+    },
+    "actions": {
+        "create": "Izveidot jaunu CV",
+        "edit": "Rediģēt",
+        "print": "Printēt",
+        "delete": "Dzēst",
+        "cancel": "Atcelt",
+        "save": "Saglabāt"
+    }
+}
